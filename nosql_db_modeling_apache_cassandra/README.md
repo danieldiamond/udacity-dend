@@ -11,5 +11,5 @@ Skills include:
 * Define robust Partition Keys, Clustering Columns and Composite Primary Keys.
 * Testing the database and ETL pipeline by running queries given to you by the analytics team from Sparkify and comparing results with their expected results.
 
-# Schema for Data Analysis
+### Schema for Data Analysis
 Process the event_datafile_new.csv dataset to create a denormalized dataset.
