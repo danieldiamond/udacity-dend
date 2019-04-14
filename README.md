@@ -17,3 +17,12 @@ As a data engineer for Sparkify, I built out a NoSQL database using Apache Cassa
 * Developed denormalized tables optimized for a specific set queries and business needs
 
 Proficiencies used: Python, Apache Cassandra, Denormalization
+
+
+## Project 3: [Data Warehouse - Amazon Redshift](https://github.com/danieldiamond/udacity-dend/tree/master/data_warehouse_redshift).
+Created a database warehouse utilizing Amazon Redshift. Skills include:
+* Creating a Redshift Cluster, IAM Roles, Security groups.
+* ETL Pipeline that copies data from S3 buckets into staging tables to be processed into a star schema
+* Developed a star schema with optimization to specific queries required by the data analytics team.
+
+Proficiencies used: Python, Amazon Redshift, aws cli, Amazon SDK, SQL, PostgreSQL
