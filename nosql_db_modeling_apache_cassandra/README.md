@@ -1,8 +1,8 @@
 # Project 2: NoSQL Data Modeling with Apache Cassandra
 ## Introduction
-A startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analysis team is particularly interested in understanding what songs users are listening to. Currently, there is no easy way to query the data to generate the results, since the data reside in a directory of CSV files on user activity on the app.
+As a data engineer, I was responsible for developing a nosql database to empower the analytics team at Sparkify. The analysis team is particularly interested in understanding what songs users are listening to. Currently, there is no easy way to query the data to generate the results, since the data reside in a directory of CSV files on user activity on the app.
 
-### Task
+### Achievements
 Data modeling with Apache Cassandra and building an ETL pipeline using Python. Define table schema based on the analytics team query requirements, and write an ETL pipeline that transfers data from a set of CSV files within a directory to create a streamlined CSV file to model and insert data into Apache Cassandra tables using Python and SQL.
 Skills include:
 * Building out an ETL pipeline using Python
