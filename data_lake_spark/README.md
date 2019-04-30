@@ -1,11 +1,9 @@
 # Project 4: Data Lake & Spark
 ## Introduction
-As a data engineer, I was responsible for developing a data lake for the analytics team at Sparkify. After considerable growth in user base and song database it's time to move the data warehouse to a data lake and enhance data processing & analyses through Spark. Data currently resides in S3 buckets, in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
-
-building an ETL pipeline that extracts their data from S3, processes them using Spark, and loads the data back into S3 as a set of dimensional tables.
+As a data engineer, I was responsible for developing a data lake for the analytics team at Sparkify. After considerable growth in user base and song database it was time to move the data warehouse to a data lake and enhance data processing through Spark.
 
 ### Achievements
-As their data engineer, I was responsible for building out an ETL pipeline, extracting data from S3, processing it through Spark and transforming into a star schema stored in S3 buckets with parquet formatting. The database and ETL pipeline were validated by running queries provided by the analytics team and compared expected results.
+As their data engineer, I was responsible for building out an ETL pipeline, extracting data from S3 buckets, processing it through Spark and transforming into a star schema stored in S3 buckets with parquet formatting and efficient partitioning. The database and ETL pipeline were validated by running queries provided by the analytics team and compared expected results.
 Skills include:
 * Building out an ETL pipeline using Spark, Python, Hadoop Clusters (EMR).
 * Fast-tracking the data lake buildout using (serverless) AWS Lambda and cataloging tables with an AWS Glue Crawler
