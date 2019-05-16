@@ -1,5 +1,5 @@
 # Project 4: Data Lake & Spark
-<img src="images/logo.png" align="center" />
+<p align="center"><img src="images/logo.png" style="height: 100%; width: 100%; max-width: 270px" /></p>
 ## Introduction
 As a data engineer, I was responsible for developing a data lake for the analytics team at Sparkify. After considerable growth in user base and song database it was time to move the data warehouse to a data lake and enhance data processing through Spark.
 
