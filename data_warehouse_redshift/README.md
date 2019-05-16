@@ -1,4 +1,5 @@
 # Project 3: Data Warehouse Management With Amazon Redshift
+<img src="images/logo.png" align="center" />
 ## Introduction
 As a data engineer, I was responsible for developing a data warehouse for the analytics team at Sparkify. After recent growth in their user base and song database they want to move their processes and data onto the cloud. Data currently resides in S3 buckets, in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
 

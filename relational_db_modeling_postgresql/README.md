@@ -1,4 +1,5 @@
 # Project 1: Relational Data Modeling with Postgres
+<img src="images/logo.png" align="center" />
 ## Introduction
 As a data engineer, I was responsible for developing a relational database to empower the analytics team at Sparkify, a recent startup. They were interested in analyzing data collected on songs and user activity through their new music streaming app. Currently, the data resides in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app. The analytics team have no easy way to query their data.
 
