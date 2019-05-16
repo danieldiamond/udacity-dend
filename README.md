@@ -4,7 +4,7 @@ Projects and resources developed in the [DEND Nanodegree](https://www.udacity.co
 
 ## Project 1: [Relational Databases - Data Modeling with PostgreSQL](https://github.com/danieldiamond/udacity-dend/tree/master/relational_db_modeling_postgresql)
 
-<p align="center"><img src="https://raw.githubusercontent.com/danieldiamond/udacity-dend/update-readme/relational_db_modeling_postgresql/images/logo.png" style="height: 100%; width: 100%; max-width: 200px" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/danieldiamond/udacity-dend/master/relational_db_modeling_postgresql/images/logo.png" style="height: 100%; width: 100%; max-width: 200px" /></p>
 
 Developed a relational database using PostgreSQL to model user activity data for a music streaming app. Skills include:
 * Created a relational database using PostgreSQL
@@ -16,7 +16,7 @@ Proficiencies include: Python, PostgreSql, Star Schema, ETL pipelines, Normaliza
 
 ## Project 2: [NoSQL Databases - Data Modeling with Apache Cassandra](https://github.com/danieldiamond/udacity-dend/tree/master/nosql_db_modeling_apache_cassandra)
 
-<p align="center"><img src="https://raw.githubusercontent.com/danieldiamond/udacity-dend/update-readme/nosql_db_modeling_apache_cassandra/images/logo.png" style="height: 100%; width: 100%; max-width: 200px" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/danieldiamond/udacity-dend/master/nosql_db_modeling_apache_cassandra/images/logo.png" style="height: 100%; width: 100%; max-width: 200px" /></p>
 
 Designed a NoSQL database using Apache Cassandra based on the original schema outlined in project one. Skills include:
 * Created a nosql database using Apache Cassandra (both locally and with docker containers)
@@ -27,7 +27,7 @@ Proficiencies used: Python, Apache Cassandra, Denormalization
 
 ## Project 3: [Data Warehouse - Amazon Redshift](https://github.com/danieldiamond/udacity-dend/tree/master/data_warehouse_redshift)
 
-<p align="center"><img src="https://raw.githubusercontent.com/danieldiamond/udacity-dend/update-readme/data_warehouse_redshift/images/logo.png" style="height: 100%; width: 100%; max-width: 200px" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/danieldiamond/udacity-dend/master/data_warehouse_redshift/images/logo.png" style="height: 100%; width: 100%; max-width: 200px" /></p>
 
 Created a database warehouse utilizing Amazon Redshift. Skills include:
 * Creating a Redshift Cluster, IAM Roles, Security groups.
@@ -38,7 +38,7 @@ Proficiencies used: Python, Amazon Redshift, aws cli, Amazon SDK, SQL, PostgreSQ
 
 ## Project 4: [Data Lake - Spark](https://github.com/danieldiamond/udacity-dend/tree/master/data_lake_spark)
 
-<p align="center"><img src="https://raw.githubusercontent.com/danieldiamond/udacity-dend/update-readme/data_lake_spark/images/logo.png" style="height: 100%; width: 100%; max-width: 200px" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/danieldiamond/udacity-dend/master/data_lake_spark/images/logo.png" style="height: 100%; width: 100%; max-width: 200px" /></p>
 
 Scaled up the current ETL pipeline by moving the data warehouse to a data lake. Skills include:
 * Create an EMR Hadoop Cluster
@@ -49,7 +49,7 @@ Technologies used: Spark, S3, EMR, Athena, Amazon Glue, Parquet.
 
 ## Project 5: [Data Pipelines - Airflow](https://github.com/danieldiamond/udacity-dend/tree/master/data_pipelines_airflow)
 
-<p align="center"><img src="https://raw.githubusercontent.com/danieldiamond/udacity-dend/update-readme/data_pipelines_airflow/images/logo.png" style="height: 100%; width: 100%; max-width: 200px" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/danieldiamond/udacity-dend/master/data_pipelines_airflow/images/logo.png" style="height: 100%; width: 100%; max-width: 200px" /></p>
 
 Automate the ETL pipeline and creation of data warehouse using Apache Airflow. Skills include:
 * Using Airflow to automate ETL pipelines using Airflow, Python, Amazon Redshift.
