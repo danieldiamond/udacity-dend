@@ -1,5 +1,5 @@
 # Project 2: NoSQL Data Modeling with Apache Cassandra
-<p align="center"><img src="images/logo.png" style="height: 100%; width: 100%; max-width: 270px" /></p>
+<p align="center"><img src="images/logo.png" style="height: 100%; width: 100%; max-width: 200px" /></p>
 ## Introduction
 As a data engineer, I was responsible for developing a nosql database to empower the analytics team at Sparkify. The analysis team is particularly interested in understanding what songs users are listening to. Currently, there is no easy way to query the data to generate the results, since the data reside in a directory of CSV files on user activity on the app.
 
