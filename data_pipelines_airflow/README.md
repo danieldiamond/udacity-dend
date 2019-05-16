@@ -1,4 +1,7 @@
 # Project 5: Data Pipelines with Airflow
+
+<p align="center"><img src="images/logo.png" style="height: 100%; width: 100%; max-width: 200px" /></p>
+
 ## Introduction
 As a data engineer, I was responsible for automating and monitoring the data warehouse ETL pipelines at Sparkify. Specifically, I delivered a dynamic and high grade data pipeline, which not only allowed for scheduled backfilling but also monitoring to ensure data quality. Data quality plays a big part in the analytics team at Sparkify, thus after the automated ETL processes, analyses were executed on top of the data warehouse with tests run to catch any discrepancies in the datasets.
 
